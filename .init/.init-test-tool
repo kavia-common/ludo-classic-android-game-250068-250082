@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/ludo-classic-android-game-250068-250082/ludo_backend"
+}
